@@ -10,6 +10,12 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
+  <style>
+    #main-navbar navbar-nav:last-child {
+      padding-right: 1rem !important;
+    }
+  </style>
+
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
       {%- for link in site.navbar-links -%}
