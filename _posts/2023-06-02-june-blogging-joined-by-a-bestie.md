@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: June Blogging (Joined by a Bestie)
 tags: meta
 date: 2023-06-01T16:00:00-04:00
