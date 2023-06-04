@@ -2,7 +2,7 @@
 layout: blog
 title: Organising the 2022 CheeseIT Dominion Tournament
 tags: 'dominion, events, games'
-date: 06/02/2023 4:00 PM
+date: 06/03/2023 4:00 PM
 ---
 ## Background
 
