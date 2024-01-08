@@ -37,9 +37,9 @@ kierajreed@gmail.com
 
 ### Massachusetts Institute of Technology
 
-*Enrolled, starting August 2023; expected graduation: June 2027.*
+*August 2023 – present; graduating June 2027*
 
-Intended course of study: Artificial Intelligence and Decision Making.
+Major: 6-2, Electrical Engineering & Computer Science.
 
 ### Mahwah High School; Mahwah, NJ
 
@@ -49,23 +49,23 @@ I had a 4.0 GPA and made honour roll every quarter. Outside of academics, I part
 
 ## Extracurricular Activities
 
-### Robo-T-Birds – Team President
+### MIT Association of Student Activities – Board Member
 
-*September 2019 – June 2023*
+*September 2023 – present*
 
-The Robo-T-Birds are a FIRST Robotics Competition team based in Mahwah High School. As team President, I am responsible for the broad planning on the team, including planning the team meetings, ensuring proper communication between team officers, checking on build progress throughout the season, and leading the team at competitions. Additionally, I was the team's programming and electrical officer for the 2020-21 and 2021-22 school years, during which I implemented the use of version control and new programming techniques for better robot code.
+The Association of Student Activities (ASA) is the student government group at MIT in charge of officially recognising student groups, allocating spaces on campus for group usage, and disbursing funds to groups for large events. As a board member on the treasury committee, I am responsible for helping allocate funds from MIT to evenly support all groups based on their requests and the ASA's ability to fund them equitably.
 
 ### Weisz Task Force — Head Administrator
 
 *April 2021 – Present*
 
-The Weisz Task Force is a by-application community of engineers, artists, and makers who help the youtuber Louis Weisz create his videos. My role as head administrator is managing the application process, keeping the community's discussion server organised, and making sure that the projects we are working on are progressing properly.
+The Weisz Task Force is an application-only community of engineers, artists, and makers who help the youtuber Louis Weisz create his videos. My role as head administrator is managing the application process, keeping the community's discussion server organised, and making sure that the projects we are actively working on are progressing properly.
 
-### MHS Mock Trial — Member
+### Mahwah Robo-T-Birds – Team President
 
-*September 2019 – June 2022*
+*September 2019 – June 2023*
 
-At mock trial, I acted as a witness for all three years. I memorised case facts, helped the team's attorneys write questions for witness examination, and played the witness role in court.
+The Robo-T-Birds are a FIRST Robotics Competition team based in Mahwah High School. As team President, I was responsible for the broad planning on the team, including planning the team meetings, ensuring proper communication between team officers, checking on build progress throughout the season, and leading the team at competitions. Additionally, I was the team's programming and electrical officer for the 2020-21 and 2021-22 school years, during which I implemented the use of version control and new programming techniques for better robot code.
 
 ### VidCon 2022 — Speaker
 
