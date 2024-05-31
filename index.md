@@ -4,7 +4,7 @@ layout: page
 
 # Hi! I'm Kiera.
 
-I'm a 19-year-old student from New Jersey.
+I'm a 20-year-old studying electrical engineering & computer science at MIT.
 
 I like programming, linguistics, urban planning, and robotics.
 
